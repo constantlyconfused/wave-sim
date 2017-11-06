@@ -1,6 +1,6 @@
 var particles = [];
 function setup() {
-  width = 800;
+  width = 1000;
 	height = 800;
   createCanvas(width, height);
   amt = 100;
